@@ -1,6 +1,5 @@
 def say_hello(greeting, name = "Ruby Programmer")
-  greeting = "Hello "#
-   puts "#{greeting} #{name}"
+  puts "#{greeting} #{name}"
 end
-say_hello('Hello', "Johnathon")
+say_hello("Hola")
 Build your say_hello method here
